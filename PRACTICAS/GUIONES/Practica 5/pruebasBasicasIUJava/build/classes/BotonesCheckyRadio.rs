@@ -1,3 +1,0 @@
-pruebasBasicas.BotonesCheckyRadio$1
-pruebasBasicas.BotonesCheckyRadio$2
-pruebasBasicas.BotonesCheckyRadio
